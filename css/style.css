@@ -1400,3 +1400,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 3px;
   color: white;
 }
+
+.text-orange{
+  color:#ff8c08;
+}
